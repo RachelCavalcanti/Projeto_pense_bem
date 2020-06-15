@@ -45,7 +45,7 @@ input#botaoA {
     background-color: red;
     border: black 1px solid;
     font-size: 24pt;
-    color: black;
+    color: white;
 }
 
 input#botaoB {
@@ -54,7 +54,7 @@ input#botaoB {
     background-color: yellow;
     border: black 1px solid;
     font-size: 24pt;
-    color: black;
+    color: white;
 }
 
 input#botaoC {
@@ -63,7 +63,7 @@ input#botaoC {
     background-color: blue;
     border: black 1px solid;
     font-size: 24pt;
-    color: black;
+    color: white;
 }
 
 input#botaoD {
@@ -72,7 +72,7 @@ input#botaoD {
     background-color: green;
     border: black 1px solid;
     font-size: 24pt;
-    color: black;
+    color: white;
 }
 
 input#reiniciar {
